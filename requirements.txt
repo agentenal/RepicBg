@@ -1,0 +1,6 @@
+pillow
+requests
+numpy
+rembg
+tkinterdnd2
+sv-ttk
